@@ -1,0 +1,530 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-09-12T11:05:41.172Z",
+        "line": 3,
+        "name": "User should be able to select issue and submit a request",
+        "description": "",
+        "id": "wire-submit-a-request-page-using-contact-form;user-should-be-able-to-select-issue-and-submit-a-request",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 2266537000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "User launch chrome browser",
+            "match": {
+              "location": "stepDefinitions.Steps.user_launch_chrome_browser()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 857085000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User opens wire support page URL \"https://support.wire.com/hc/en-us\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"https://support.wire.com/hc/en-us\"",
+                  "offset": 33
+                }
+              ],
+              "location": "stepDefinitions.Steps.user_opens_wire_support_page_url(java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 26268000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Support page title should be present",
+            "match": {
+              "location": "stepDefinitions.Steps.support_page_title_should_be_present()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1046450000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Click on header menu submit request link",
+            "match": {
+              "location": "stepDefinitions.Steps.click_on_header_menu_submit_request_link()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 38824000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "Submit request page should be displayed",
+            "match": {
+              "location": "stepDefinitions.Steps.submit_request_page_should_be_displayed()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 570925000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "Select an issue from dropdown menu",
+            "match": {
+              "location": "stepDefinitions.Steps.select_an_issue_from_dropdown()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 660161000,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "Provide all the data in input fields",
+            "match": {
+              "location": "stepDefinitions.Steps.provide_all_the_data_in_input_fields()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 65298000,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "Upload a file",
+            "match": {
+              "location": "stepDefinitions.Steps.upload_a_file()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 566741000,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "Verify file is uploaded",
+            "match": {
+              "location": "stepDefinitions.Steps.verify_file_is_uploaded()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 26780000,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "Click on submit request button",
+            "match": {
+              "location": "stepDefinitions.Steps.click_on_submit_request_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 81738000,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "End the session",
+            "match": {
+              "location": "stepDefinitions.Steps.end_the_session()"
+            },
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-09-12T11:05:47.454Z",
+        "line": 16,
+        "name": "Verify search FAQ functionality in submit request page",
+        "description": "",
+        "id": "wire-submit-a-request-page-using-contact-form;verify-search-faq-functionality-in-submit-request-page",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1628767000,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "User launch chrome browser",
+            "match": {
+              "location": "stepDefinitions.Steps.user_launch_chrome_browser()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 974125000,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "User opens wire support page URL \"https://support.wire.com/hc/en-us\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"https://support.wire.com/hc/en-us\"",
+                  "offset": 33
+                }
+              ],
+              "location": "stepDefinitions.Steps.user_opens_wire_support_page_url(java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 26327000,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "Support page title should be present",
+            "match": {
+              "location": "stepDefinitions.Steps.support_page_title_should_be_present()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 255714000,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "Click on header menu submit request link",
+            "match": {
+              "location": "stepDefinitions.Steps.click_on_header_menu_submit_request_link()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 56909000,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "Submit request page should be displayed",
+            "match": {
+              "location": "stepDefinitions.Steps.submit_request_page_should_be_displayed()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 892210000,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "Search a question with keyword \"product\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"product\"",
+                  "offset": 31
+                }
+              ],
+              "location": "stepDefinitions.Steps.search_a_question_with_keyword(java.lang.String)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 54379000,
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "Relevant search results should be displayed",
+            "match": {
+              "location": "stepDefinitions.Steps.relevant_search_results_should_be_displayed()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 112793000,
+              "status": "passed"
+            },
+            "line": 24,
+            "name": "End the session",
+            "match": {
+              "location": "stepDefinitions.Steps.end_the_session()"
+            },
+            "keyword": "And "
+          }
+        ]
+      }
+    ],
+    "name": "Wire Submit a request page using contact form",
+    "description": "",
+    "id": "wire-submit-a-request-page-using-contact-form",
+    "keyword": "Feature",
+    "uri": "file:src/main/java/features/SubmitRequest.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-09-12T11:05:51.471Z",
+        "line": 3,
+        "name": "In support web page relevant results should be displayed based on user FAQ search",
+        "description": "",
+        "id": "wire-support-page-faq-search;in-support-web-page-relevant-results-should-be-displayed-based-on-user-faq-search",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1456298000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "User launch chrome browser",
+            "match": {
+              "location": "stepDefinitions.Steps.user_launch_chrome_browser()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 687292000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User opens wire support page URL \"https://support.wire.com/hc/en-us\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"https://support.wire.com/hc/en-us\"",
+                  "offset": 33
+                }
+              ],
+              "location": "stepDefinitions.Steps.user_opens_wire_support_page_url(java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 23603000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Support page title should be present",
+            "match": {
+              "location": "stepDefinitions.Steps.support_page_title_should_be_present()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 952586000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Search a question with keyword \"security\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"security\"",
+                  "offset": 31
+                }
+              ],
+              "location": "stepDefinitions.Steps.search_a_question_with_keyword(java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 122947000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "Search results should be displayed",
+            "match": {
+              "location": "stepDefinitions.Steps.search_results_should_be_displayed()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 777393000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "Click on result link",
+            "match": {
+              "location": "stepDefinitions.Steps.click_on_result_link()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 27170000,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "Article should be displayed",
+            "match": {
+              "location": "stepDefinitions.Steps.article_should_be_displayed()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 592453000,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "Search another question with keyword \"payment\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"payment\"",
+                  "offset": 37
+                }
+              ],
+              "location": "stepDefinitions.Steps.search_another_question_with_keyword(java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 25143000,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "No Results found should be displayed",
+            "match": {
+              "location": "stepDefinitions.Steps.no_results_found_should_be_displayed()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 119581000,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "End the session",
+            "match": {
+              "location": "stepDefinitions.Steps.end_the_session()"
+            },
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-09-12T11:05:56.270Z",
+        "line": 15,
+        "name": "Verify support page elements are present",
+        "description": "",
+        "id": "wire-support-page-faq-search;verify-support-page-elements-are-present",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1487341000,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "User launch chrome browser",
+            "match": {
+              "location": "stepDefinitions.Steps.user_launch_chrome_browser()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 809997000,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "User opens wire support page URL \"https://support.wire.com/hc/en-us\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"https://support.wire.com/hc/en-us\"",
+                  "offset": 33
+                }
+              ],
+              "location": "stepDefinitions.Steps.user_opens_wire_support_page_url(java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 23978000,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "Support page title should be present",
+            "match": {
+              "location": "stepDefinitions.Steps.support_page_title_should_be_present()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 225147000,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "Verify support page categories",
+            "match": {
+              "location": "stepDefinitions.Steps.verify_support_page_categories()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 258898000,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "Click on header sign in link",
+            "match": {
+              "location": "stepDefinitions.Steps.click_on_header_sign_in_link()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 77217000,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "End the session",
+            "match": {
+              "location": "stepDefinitions.Steps.end_the_session()"
+            },
+            "keyword": "And "
+          }
+        ]
+      }
+    ],
+    "name": "Wire Support Page FAQ Search",
+    "description": "",
+    "id": "wire-support-page-faq-search",
+    "keyword": "Feature",
+    "uri": "file:src/main/java/features/Support.feature",
+    "tags": []
+  }
+]
