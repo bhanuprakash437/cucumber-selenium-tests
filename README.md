@@ -4,8 +4,8 @@ This project includes the automated tests for the "Support and FAQ" pages using 
 Framework with Java as a programming language. The scenarios are present as cucumber files in the
 "features" folder which verifies with specifications and generates a test report.
 
-Requirements: Java 8 and Gherkin plugin for Intellij.
-(Please check pom.xml file for required dependencies)
+Requirements: Java 8+ and Gherkin plugin.
+(Please check pom.xml file for other required dependencies)
 
 How to run the tests:
 
@@ -14,6 +14,6 @@ How to run the tests:
    local repo.
 2. Go to **DataUtils.java** class and provide the paths for the variables CHROME_DRIVER_PATH and
    IMAGE_PATH. 
-   Note: The Chrome driver and image required are provided in the "resources" folder.
+   Note: The Chrome driver and Image required are provided in the "resources" folder.
 3. Go to **TestRunner.java** class and provide the path for features and simply run.
 4. The test report will be generated under "testResult" as Json.
