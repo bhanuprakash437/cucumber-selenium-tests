@@ -3,7 +3,7 @@
     "line": 1,
     "elements": [
       {
-        "start_timestamp": "2021-09-12T11:05:41.172Z",
+        "start_timestamp": "2021-09-13T09:24:15.763Z",
         "line": 3,
         "name": "User should be able to select issue and submit a request",
         "description": "",
@@ -13,7 +13,7 @@
         "steps": [
           {
             "result": {
-              "duration": 2266537000,
+              "duration": 2133000000,
               "status": "passed"
             },
             "line": 4,
@@ -25,7 +25,7 @@
           },
           {
             "result": {
-              "duration": 857085000,
+              "duration": 832000000,
               "status": "passed"
             },
             "line": 5,
@@ -43,7 +43,7 @@
           },
           {
             "result": {
-              "duration": 26268000,
+              "duration": 30000000,
               "status": "passed"
             },
             "line": 6,
@@ -55,7 +55,7 @@
           },
           {
             "result": {
-              "duration": 1046450000,
+              "duration": 1124000000,
               "status": "passed"
             },
             "line": 7,
@@ -67,7 +67,7 @@
           },
           {
             "result": {
-              "duration": 38824000,
+              "duration": 113000000,
               "status": "passed"
             },
             "line": 8,
@@ -79,7 +79,7 @@
           },
           {
             "result": {
-              "duration": 570925000,
+              "duration": 516000000,
               "status": "passed"
             },
             "line": 9,
@@ -91,7 +91,7 @@
           },
           {
             "result": {
-              "duration": 660161000,
+              "duration": 622000000,
               "status": "passed"
             },
             "line": 10,
@@ -103,7 +103,7 @@
           },
           {
             "result": {
-              "duration": 65298000,
+              "duration": 89000000,
               "status": "passed"
             },
             "line": 11,
@@ -115,7 +115,7 @@
           },
           {
             "result": {
-              "duration": 566741000,
+              "duration": 561000000,
               "status": "passed"
             },
             "line": 12,
@@ -127,7 +127,7 @@
           },
           {
             "result": {
-              "duration": 26780000,
+              "duration": 22000000,
               "status": "passed"
             },
             "line": 13,
@@ -139,7 +139,7 @@
           },
           {
             "result": {
-              "duration": 81738000,
+              "duration": 75000000,
               "status": "passed"
             },
             "line": 14,
@@ -152,7 +152,7 @@
         ]
       },
       {
-        "start_timestamp": "2021-09-12T11:05:47.454Z",
+        "start_timestamp": "2021-09-13T09:24:21.972Z",
         "line": 16,
         "name": "Verify search FAQ functionality in submit request page",
         "description": "",
@@ -162,7 +162,7 @@
         "steps": [
           {
             "result": {
-              "duration": 1628767000,
+              "duration": 1922000000,
               "status": "passed"
             },
             "line": 17,
@@ -174,7 +174,7 @@
           },
           {
             "result": {
-              "duration": 974125000,
+              "duration": 1151000000,
               "status": "passed"
             },
             "line": 18,
@@ -192,7 +192,7 @@
           },
           {
             "result": {
-              "duration": 26327000,
+              "duration": 28000000,
               "status": "passed"
             },
             "line": 19,
@@ -204,7 +204,7 @@
           },
           {
             "result": {
-              "duration": 255714000,
+              "duration": 412000000,
               "status": "passed"
             },
             "line": 20,
@@ -216,7 +216,7 @@
           },
           {
             "result": {
-              "duration": 56909000,
+              "duration": 97000000,
               "status": "passed"
             },
             "line": 21,
@@ -228,7 +228,7 @@
           },
           {
             "result": {
-              "duration": 892210000,
+              "duration": 1568000000,
               "status": "passed"
             },
             "line": 22,
@@ -246,7 +246,7 @@
           },
           {
             "result": {
-              "duration": 54379000,
+              "duration": 91000000,
               "status": "passed"
             },
             "line": 23,
@@ -258,7 +258,7 @@
           },
           {
             "result": {
-              "duration": 112793000,
+              "duration": 123000000,
               "status": "passed"
             },
             "line": 24,
@@ -282,7 +282,7 @@
     "line": 1,
     "elements": [
       {
-        "start_timestamp": "2021-09-12T11:05:51.471Z",
+        "start_timestamp": "2021-09-13T09:24:27.389Z",
         "line": 3,
         "name": "In support web page relevant results should be displayed based on user FAQ search",
         "description": "",
@@ -292,7 +292,7 @@
         "steps": [
           {
             "result": {
-              "duration": 1456298000,
+              "duration": 1954000000,
               "status": "passed"
             },
             "line": 4,
@@ -304,7 +304,7 @@
           },
           {
             "result": {
-              "duration": 687292000,
+              "duration": 871000000,
               "status": "passed"
             },
             "line": 5,
@@ -322,7 +322,7 @@
           },
           {
             "result": {
-              "duration": 23603000,
+              "duration": 27000000,
               "status": "passed"
             },
             "line": 6,
@@ -334,7 +334,7 @@
           },
           {
             "result": {
-              "duration": 952586000,
+              "duration": 1107000000,
               "status": "passed"
             },
             "line": 7,
@@ -352,7 +352,7 @@
           },
           {
             "result": {
-              "duration": 122947000,
+              "duration": 132000000,
               "status": "passed"
             },
             "line": 8,
@@ -364,7 +364,7 @@
           },
           {
             "result": {
-              "duration": 777393000,
+              "duration": 677000000,
               "status": "passed"
             },
             "line": 9,
@@ -376,7 +376,7 @@
           },
           {
             "result": {
-              "duration": 27170000,
+              "duration": 86000000,
               "status": "passed"
             },
             "line": 10,
@@ -388,7 +388,7 @@
           },
           {
             "result": {
-              "duration": 592453000,
+              "duration": 573000000,
               "status": "passed"
             },
             "line": 11,
@@ -406,7 +406,7 @@
           },
           {
             "result": {
-              "duration": 25143000,
+              "duration": 33000000,
               "status": "passed"
             },
             "line": 12,
@@ -418,7 +418,7 @@
           },
           {
             "result": {
-              "duration": 119581000,
+              "duration": 84000000,
               "status": "passed"
             },
             "line": 13,
@@ -431,7 +431,7 @@
         ]
       },
       {
-        "start_timestamp": "2021-09-12T11:05:56.270Z",
+        "start_timestamp": "2021-09-13T09:24:32.949Z",
         "line": 15,
         "name": "Verify support page elements are present",
         "description": "",
@@ -441,7 +441,7 @@
         "steps": [
           {
             "result": {
-              "duration": 1487341000,
+              "duration": 1533000000,
               "status": "passed"
             },
             "line": 16,
@@ -453,7 +453,7 @@
           },
           {
             "result": {
-              "duration": 809997000,
+              "duration": 742000000,
               "status": "passed"
             },
             "line": 17,
@@ -471,7 +471,7 @@
           },
           {
             "result": {
-              "duration": 23978000,
+              "duration": 31000000,
               "status": "passed"
             },
             "line": 18,
@@ -483,7 +483,7 @@
           },
           {
             "result": {
-              "duration": 225147000,
+              "duration": 234000000,
               "status": "passed"
             },
             "line": 19,
@@ -495,7 +495,7 @@
           },
           {
             "result": {
-              "duration": 258898000,
+              "duration": 251000000,
               "status": "passed"
             },
             "line": 20,
@@ -507,7 +507,7 @@
           },
           {
             "result": {
-              "duration": 77217000,
+              "duration": 110000000,
               "status": "passed"
             },
             "line": 21,

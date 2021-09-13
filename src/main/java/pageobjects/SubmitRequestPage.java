@@ -113,7 +113,7 @@ public class SubmitRequestPage extends BaseClass {
 
   public void clickOnSubmitButton() {
     submitButton.isDisplayed();
-    //submitButton.click();
+    submitButton.click();
   }
 
 }

@@ -4,11 +4,14 @@ public class DataUtils {
 
   //Please provide chrome driver path and attachments path from resources folder
 
-  final static String CHROME_DRIVER_PATH = "/Users/bhanufs/cucumber-selenium-tests/src/main/resources/drivers/chromedriver";
-  public static final String IMAGE_PATH = "/Users/bhanufs/cucumber-selenium-tests/src/main/resources/images/testImage.png";
+  final static String
+      CHROME_DRIVER_PATH =
+      "/Users/bhanufs/cucumber-selenium-tests/src/main/resources/drivers/chromedriver";
+  public static final String
+      IMAGE_PATH =
+      "/Users/bhanufs/cucumber-selenium-tests/src/main/resources/images/testImage.png";
 
   public static final String SUBMIT_REQUEST_PAGE_URL = "https://support.wire.com/hc/en-us/requests/new";
-  public static final String SEARCH_RESULT_URL = "https://support.wire.com/hc/en-us/search?utf8=&query=security";
 
   // Support page faq items
   public static final String EXPECTED_PAGE_TITLE = "Wire Help";

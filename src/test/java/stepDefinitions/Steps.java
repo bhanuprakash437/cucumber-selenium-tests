@@ -40,8 +40,6 @@ public class Steps extends BaseClass {
   @Then("Search results should be displayed")
   public void search_results_should_be_displayed() {
     assertEquals(DataUtils.EXPECTED_SECURITY_SEARCH_RESULT, supportPage.getSearchResult());
-    String EXPECTED_URL = driver.getCurrentUrl();
-    assertEquals(EXPECTED_URL, DataUtils.SEARCH_RESULT_URL);
   }
 
   @And("Click on result link")
