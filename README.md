@@ -14,6 +14,6 @@ How to run the tests:
    local repo.
 2. Go to **DataUtils.java** class and provide the paths for the variables CHROME_DRIVER_PATH and
    IMAGE_PATH. Note: The Chrome driver and Image required are provided in the "resources" folder.
-3. Go to **TestRunner.java** class and provide the path for features and this will all the test
+3. Go to **TestRunner.java** class and provide the path for features and this will run all the test
    scenarios.
 4. The test report will be generated under "testResult" as Json.
